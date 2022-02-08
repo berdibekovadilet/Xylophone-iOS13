@@ -1,4 +1,5 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Documentation/Xylophone.png)
 
 # Xylophone
 
