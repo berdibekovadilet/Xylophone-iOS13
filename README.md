@@ -1,4 +1,3 @@
-![Xylophone](Documentation/Xylophone.png)
 
 # Ксилофон
 
@@ -6,3 +5,4 @@
 
 Отличная игрушка и простейший музыкальный инструмент для начинающих музыкантов. Сделано с использованием UIKit и AVFoundation.
 
+![Xylophone](Documentation/Xylophone.png)
